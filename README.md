@@ -4,6 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 All the test scripts are in specific directories and the list is given below.
 
-## Check for text existance
-
-### `/src/TextCheck`
+**Check for text existance** `/src/TextCheck`
